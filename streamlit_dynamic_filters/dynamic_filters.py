@@ -312,7 +312,6 @@ class DynamicFiltersHierarchical(DynamicFilters):
             - 'fragment': Reruns just the fragment
             - 'auto' : Reruns fragment if possible. Otherwise, reruns the entire app
 
-
         Behavior:
         ---------
         - The function iterates through session-state filters.

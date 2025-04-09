@@ -1,6 +1,7 @@
-## 0.1.10 - 27th March 2024
+## 0.1.10 - 9th April 2024
 ### Added
 - Implemented rerun_scope and automatic fragment detection (contributed by @tabedzki)
+- Merge pull request #15 from heera-ai/add-groupby-feature (contributed by @heera-ai)
 
 ## 0.1.9 - 2nd August 2024
 ### Added
